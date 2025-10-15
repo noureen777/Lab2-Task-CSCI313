@@ -14,3 +14,10 @@
 
 ```bash
 python demo_app/run_demo.py
+```
+
+4. Expected output:
+
+```
+Hello from demo script!
+```
