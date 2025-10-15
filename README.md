@@ -22,3 +22,8 @@ python demo_app/run_demo.py
 Hello from demo script!
 ```
 Expected output: Hello from demo script!
+## Issues
+
+- **Bug:** demo script throws error on empty input (see Issue #1)
+- **Enhancement:** add example output and more instructions (see Issue #2)
+
