@@ -4,7 +4,7 @@
 
 - `README.md` — this documentation file  
 - `demo.txt` — simple demo text file  
-- `demo_app/run_demo.py` — small demo script
+- `demo.txt` — small demo text file (example content)
 
 ## How to run the demo
 
@@ -13,7 +13,7 @@
 3. Run:
 
 ```bash
-python demo_app/run_demo.py
+type demo.txt
 ```
 
 4. Expected output:
