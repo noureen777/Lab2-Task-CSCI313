@@ -21,3 +21,4 @@ python demo_app/run_demo.py
 ```
 Hello from demo script!
 ```
+Expected output: Hello from demo script!
