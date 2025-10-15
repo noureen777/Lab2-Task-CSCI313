@@ -4,12 +4,12 @@
 
 - `README.md` — this documentation file  
 - `demo.txt` — simple demo text file  
-- `demo_app/run_demo.py` (or whatever your script/file is) — small demo script  
+- `demo_app/run_demo.py` — small demo script
 
 ## How to run the demo
 
-1. Make sure Python is installed (if your script uses Python).  
-2. Open a terminal in the project folder.  
+1. Make sure Python is installed.
+2. Open a terminal in the project folder.
 3. Run:
 
 ```bash
